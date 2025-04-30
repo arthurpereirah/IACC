@@ -1,3 +1,4 @@
-time do coração:
+time do rival:internacional
 nome:arthur
 cidade: três cachoeiras
+idade: 18
